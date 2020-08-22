@@ -168,7 +168,8 @@ nav{
     display: block;
     text-transform: uppercase;
     
-}  
+} 
+
 .header_info{
     width:94%;
     padding:60px 40px;
@@ -439,8 +440,13 @@ nav{
     text-align: center;
     
 }
-.button_item{
-    /* height: 60px; */
+.login_link:link{
+    text-decoration: none;
+}
+
+.bundle_link:link{
+    text-decoration: none;
+    
 }
 .button_terms_container{
     text-align: center;
